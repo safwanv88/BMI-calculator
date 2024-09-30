@@ -1,0 +1,63 @@
+#body{
+    background-image: url(./image/istockphoto-1450995510-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ban{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.708);
+    height: 710px;
+}
+
+#head h1{
+    font-weight: bold;
+    color: rgb(25, 21, 20);
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+}
+
+#head h4{
+    font-weight: bold;
+    color: white;
+    
+
+}
+
+#head{
+   position: relative;
+   top: 10px;
+}
+
+#age{
+    border: solid 2px;
+    border-radius: 7px;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+     
+}
+#high{
+    border: solid 2px;
+    border-radius: 7px;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+     
+}
+#weight{
+    border: solid 2px;
+    border-radius: 7px;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+     
+}
+
+#col1 h3{
+    font-family: "Kay Pho Du", serif;
+    font-weight: bold;
+}
+#col1{
+    height: 270px;
+}
